@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456506168965",
+    "project_id": "iuea-app",
+    "storage_bucket": "iuea-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456506168965:android:8ce41239edd0c7285a3bec",
+        "android_client_info": {
+          "package_name": "com.example.documentsharingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo1GvY_15lA5b_P5bky1pdJrvqwbFDjs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
